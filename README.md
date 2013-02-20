@@ -1,4 +1,4 @@
 DoubanZan
 =========
 
-Auto praise broadcasts of your douban friends
+Auto  like broadcasts of your douban friends
